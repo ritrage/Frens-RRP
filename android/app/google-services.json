@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529783305538",
+    "firebase_url": "https://ritrageindiacalls.firebaseio.com",
+    "project_id": "ritrageindiacalls",
+    "storage_bucket": "ritrageindiacalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529783305538:android:02a687d484d3e88cd584db",
+        "android_client_info": {
+          "package_name": "com.ritrageproductions.ritrageindiacalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529783305538-vdk581dtrojp8jmhhaqpo9boqa66dvm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritrageproductions.ritrageindiacalls",
+            "certificate_hash": "8b64469f6c3fdb2343ef72fc7615912f7d2f6368"
+          }
+        },
+        {
+          "client_id": "529783305538-5rot46bchf3f7lto31g8te4gr0f60do2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHNkEV7mZOhb30YrR39upCKSbUPCYffY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529783305538-5rot46bchf3f7lto31g8te4gr0f60do2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
