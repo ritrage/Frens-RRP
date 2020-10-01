@@ -1,6 +1,6 @@
 # ritrageindiacalls
 
-A new Flutter application.
+A new Flutter application. This application allows more than 8 user to do video call.
 
 ## Getting Started
 
