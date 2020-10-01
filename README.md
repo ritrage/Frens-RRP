@@ -1,6 +1,7 @@
 # ritrageindiacalls
 
-A new Flutter application.
+A new Flutter application using Agora.io for video calling and firebase as database.
+It also uses google admobs and HCI techniques.
 
 ## Getting Started
 
